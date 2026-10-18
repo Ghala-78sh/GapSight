@@ -1,0 +1,18 @@
+{
+  "docling_version": "2.140.0",
+  "source_sha256": "146505199e5374d99302fc3d7e1fdc73b6e2f3292fefd535d5dd891294a81db1",
+  "conversion_status": "success",
+  "main_controls": 108,
+  "subcontrols": 92,
+  "subdomains": 28,
+  "glossary_entries": 70,
+  "independent_id_check": "Matched control ID sets from independent PDF text/table extraction; does not certify all text.",
+  "unit_tests_passed": 6,
+  "validation_limitations": [
+    "All extracted text still requires source review.",
+    "No Arabic edition evaluation.",
+    "No glossary completeness certification.",
+    "No RAG or compliance accuracy measured.",
+    "18 unclassified source units retained for inspection."
+  ]
+}
